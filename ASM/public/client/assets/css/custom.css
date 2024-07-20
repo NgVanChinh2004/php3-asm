@@ -1,0 +1,8 @@
+/*
+Custom Css
+*/
+.card-img-top {
+    object-fit: cover; /* Giữ tỷ lệ khung hình và cắt ảnh để vừa khung */
+    height: 250px; /* Chiều cao cụ thể mà bạn muốn */
+    width: 100%; /* Đảm bảo ảnh chiếm toàn bộ chiều rộng của khung */
+}
